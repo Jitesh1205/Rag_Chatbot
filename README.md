@@ -85,6 +85,3 @@ streamlit run rag_frontend.py
 - sqlite3
 - PyPDF2
 
-## License
-
-MIT License
